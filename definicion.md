@@ -1,0 +1,3 @@
+## Definicion
+La computación en la nube, o cloud computing, se refiere a la entrega de servicios informáticos a través de internet. En lugar de poseer y mantener servidores y recursos de infraestructura localmente, los usuarios pueden acceder a recursos como almacenamiento, potencia de procesamiento, y aplicaciones a pedido, pagando solo por la cantidad utilizada. Este modelo proporciona escalabilidad, flexibilidad y accesibilidad remota, permitiendo a individuos y organizaciones aprovechar recursos informáticos de manera eficiente sin la necesidad de gestionar la complejidad de la infraestructura subyacente.
+![](/img/2.jpg)

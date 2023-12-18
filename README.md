@@ -6,3 +6,4 @@
 ## [5.-Modos de servicios en la nube](modos.md)
 ## [6.-Ventajas e inconvenientes de cloud computing](vei.md)
 ## [Referencias](referencias.md)
+## [Autores](autores.md)
