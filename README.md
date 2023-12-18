@@ -7,3 +7,4 @@
 ## [6.-Ventajas e inconvenientes de cloud computing](vei.md)
 ## [Referencias](referencias.md)
 ## [Autores](autores.md)
+## [Licencia](licencia.md)
